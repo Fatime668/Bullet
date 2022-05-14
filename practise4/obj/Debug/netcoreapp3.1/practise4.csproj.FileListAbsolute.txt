@@ -1,0 +1,14 @@
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\bin\Debug\netcoreapp3.1\practise4.exe
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\bin\Debug\netcoreapp3.1\practise4.deps.json
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\bin\Debug\netcoreapp3.1\practise4.runtimeconfig.json
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\bin\Debug\netcoreapp3.1\practise4.runtimeconfig.dev.json
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\bin\Debug\netcoreapp3.1\practise4.dll
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\bin\Debug\netcoreapp3.1\practise4.pdb
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.csproj.AssemblyReference.cache
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.AssemblyInfoInputs.cache
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.AssemblyInfo.cs
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.csproj.CoreCompileInputs.cache
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.dll
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.pdb
+C:\Users\tu7dkjdue\source\repos\practise4\practise4\obj\Debug\netcoreapp3.1\practise4.genruntimeconfig.cache
